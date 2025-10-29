@@ -11,3 +11,7 @@
 
 flat = input("Qual o número do seu flat?")
 print(f'Meu flat no Apart é {flat}')
+
+hoje = input("Vai chovar?")
+
+print(hoje,  "que espero")
