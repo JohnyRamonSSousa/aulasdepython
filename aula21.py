@@ -26,7 +26,8 @@ entrada = input('[E]ntrar [S]air:')
 senha_digitada = input('senha:')
 
 senha_digitada == '123456'
+#if chegar um valor boolem
 if entrada == 'E':
-    print('Entrar')
+    print('Seja bem vindo ao sistema')
 else:
-    print('Sair')
+    print('Você não entrou, tente novamente')
